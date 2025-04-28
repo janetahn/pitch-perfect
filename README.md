@@ -4,11 +4,12 @@
 
 ## Features
 - 🎤 **Voice Recording**: Easily record your voice with a simple tap.
-- 🦔 **Squirrel Mode**: Transform your voice into a high-pitched, squirrel-like sound!
-- 🤖 **Robot Mode**: Add a mechanical, robotic effect to your voice.
 - 🎶 **Multiple Voice Modulations**: Explore a variety of voice modulation options such as echo, distortion, and more.
 - 🔄 **Preview and Save**: Listen to your transformed voice and save your recordings for later sharing.
 - 🎧 **User-Friendly Interface**: Intuitive design for effortless recording and effect application.
+
+## Compatibility
+**PitchPerfect** is compatible with **iOS 15 and lower**. Users with **iOS 16 or higher** may experience issues with certain features and functionality. We recommend upgrading to a newer iOS version for the best experience.
 
 ## How to Use
 1. Open the app.
